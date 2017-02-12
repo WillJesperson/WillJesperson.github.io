@@ -1,0 +1,38 @@
+#logo{
+
+	margin-top:10px;	
+}
+
+#menu{
+	border:3px solid #00ffff;
+	margin-top:10px;
+}
+
+#comments{
+	border:5px solid brown;
+margin-top:5px;
+height:900px;
+width:100%;
+}
+
+#FORM{
+	border:3px solid pink;
+height:700px;
+float:right;
+margin:10px;
+
+
+}
+
+#comments{
+border:5px solid brown;
+margin-top:5px;
+height:900px;
+width:100%;
+}
+
+body{
+	background:radial-gradient(100% 90% at 10% 20%, #42f4d4, #42f480,#5642f4);;
+}
+
+
